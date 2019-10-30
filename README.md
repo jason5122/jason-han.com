@@ -1,3 +1,3 @@
-# My website jason-han.com
+# jason-han.com
 
-Domain bought on Google Domains, website hosted by GitHub.
+A personal website with the domain from Google Domains and content hosted by GitHub.
